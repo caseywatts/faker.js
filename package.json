@@ -63,5 +63,6 @@
   },
   "license": "MIT",
   "main": "index.js",
+  "browser": "build/build/faker.js",
   "dependencies": {}
 }
